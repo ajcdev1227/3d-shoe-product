@@ -52,9 +52,7 @@ Follow these steps to set up the project locally:
 
 To build the project for production:
 
-    ```bash
     npm run build
-    ```
 
 ## Technologies Used
 
