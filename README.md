@@ -50,7 +50,7 @@ Follow these steps to set up the project locally:
 
 ## Build for Production
 
-    To build the project for production:
+To build the project for production:
 
     ```bash
     npm run build
@@ -58,8 +58,8 @@ Follow these steps to set up the project locally:
 
 ## Technologies Used
 
-    - Three.js: A powerful 3D library for rendering and animations.
-    - React: A JavaScript library for building user interfaces.
-    - TailwindCSS: A utility-first CSS framework for responsive and beautiful design.
-    - TypeScript: A superset of JavaScript that adds static typing to improve code reliability.
+- Three.js: A powerful 3D library for rendering and animations.
+- React: A JavaScript library for building user interfaces.
+- TailwindCSS: A utility-first CSS framework for responsive and beautiful design.
+- TypeScript: A superset of JavaScript that adds static typing to improve code reliability.
 
